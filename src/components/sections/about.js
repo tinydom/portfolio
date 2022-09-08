@@ -136,9 +136,10 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Eren and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              interest in web development started back in 2014 when I decided to try editing custom
+              Wordpress themes — turns out hacking together a custom hero section taught me a lot
+              about HTML &amp; CSS! Right now, My main focus is React and Blockchain development which 
+              has been my bread and butter for a while.
             </p>
 
             <p>
