@@ -1,10 +1,10 @@
 ---
 date: '2018-05-14'
 title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+company: 'Bits Creative Agency'
+location: 'Halifax, CA'
+range: 'Mar 2019 - Oct 2021'
+url: ''
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
