@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Coinmetro'
 cover: './course-card.png'
 external: 'https://coinmetro.com/'
 cta: ''
@@ -12,4 +12,4 @@ tech:
   - MUI
 ---
 
-Coinmetro delivers the power of community to ensure everyone can better their lives by having access to the same opportunities. Mainly deployed as senior <a>Blockchain</a> enigneer mostly orchestrated smartcontract development and infrastructure design while inspecting the team's overall progress on frontend.
+Coinmetro delivers the power of community to ensure everyone can better their lives by having access to the same opportunities. Mainly deployed as senior <a>Blockchain</a> engineer mostly orchestrated smartcontract development and infrastructure design while inspecting the team's overall progress on frontend.

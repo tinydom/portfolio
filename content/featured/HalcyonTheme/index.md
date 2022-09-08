@@ -2,8 +2,8 @@
 date: '1'
 title: 'Goobr'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: ''
+external: ''
 tech:
   - VS Code
   - React Native
