@@ -1,17 +1,15 @@
 ---
-date: '2018-04-21'
+date: '2018-05-18'
 title: 'FROME'
 github: ''
 external: 'https://www.firstroundsonme.co'
 android: 'https://apps.apple.com/us/app/frome/id1535562075'
 tech:
-  - React Native
-  - Express.js
-  - REST API
-  - React.js
-  - OneSignal
-company: 'First Round's On Me'
+  - Cordova
+  - Backbone
+  - Marionette
+company: 'Starry'
 showInProjects: true
 ---
 
-FROME(First Round's on Me) is phenomenon dating application which encourages people to be more confident in themselves and their quest for companionship through face to face interactions. Being part of original development members, I mostly took care of frontend interactions and animations on React native for iOS for MVP.
+Starry Station android app feature that provided users with the ability to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their phones.
