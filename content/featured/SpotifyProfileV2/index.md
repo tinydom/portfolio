@@ -12,4 +12,4 @@ tech:
   - MUI
 ---
 
-Coinmetro delivers the power of community to ensure everyone can better their lives by having access to the same opportunities. Mainly deployed as senior <a>Blockchain</a> engineer mostly orchestrated smartcontract development and infrastructure design while inspecting the team's overall progress on frontend.
+Coinmetro is a fully regulated crypto exchange for beginners and pros where you can buy Bitcoin plus more than 50 cryptocurrencies with only a few clicks. Mainly deployed as senior <a>Blockchain</a> engineer mostly orchestrated smartcontract development and infrastructure design while inspecting the team's overall progress on frontend.
