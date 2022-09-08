@@ -3,6 +3,7 @@ date: '3'
 title: 'Build a Spotify Connected App'
 cover: './course-card.png'
 external: 'https://coinmetro.com/'
+cta: ''
 tech:
   - React
   - Web3.js
