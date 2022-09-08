@@ -9,7 +9,7 @@ tech:
   - Styled Components
   - Express
   - Spotify API
-  - OKTA API
+  - OKTA
   - Docker
 ---
 
