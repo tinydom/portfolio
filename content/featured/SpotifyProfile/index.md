@@ -2,7 +2,6 @@
 date: '2'
 title: 'James Smith Academy'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://www.jamessmithacademy.com'
 tech:
   - React
