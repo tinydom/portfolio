@@ -1,14 +1,14 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2016-05'
+title: 'Integrating AWS Elasticsearch with Laravel'
+github: '#'
+external: ''
 tech:
-  - Algolia
-  - WordPress
+  - AWS Elasticsearch
+  - Laravel 5.4
   - PHP
-company: 'Upstatement'
+company: 'DesktopNexus'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Building a custom Laravel components to build global organic search engine with AWS Elasticsearch
