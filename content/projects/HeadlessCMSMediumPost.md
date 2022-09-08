@@ -1,6 +1,6 @@
 ---
 date: '2018-7'
-title: 'E-Commerce Platform with MERNSTACK'
+title: 'Waveform'
 github: ''
 external: 'https://www.waveform.com'
 tech:

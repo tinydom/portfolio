@@ -1,13 +1,15 @@
 ---
-date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '2021-04'
+title: 'ThoughtWorld'
+github: ''
+external: 'https://thoughtworld.com'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Angular 11
+  - Django REST
+  - WebGL
+  - Three.js
+  - Unity 3D
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+ThoughtWorld is an interactive digital world of real thoughts. Submit your thoughts, collaborate with other thinkers, explore new ideas, and watch how your thoughts change the world!

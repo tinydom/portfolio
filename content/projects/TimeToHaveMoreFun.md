@@ -5,9 +5,8 @@ github: ''
 external: 'https://medium.com/@allsocial/allsocial-wants-to-give-social-media-control-back-to-the-user-d72b9b19c710'
 tech:
   - React.js
-  - Redux Thunk
-  - GetStream.io
   - Node.js
+  - GetStream.io
   - React Native
   - AWS
   - Firebase
