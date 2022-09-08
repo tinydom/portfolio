@@ -1,15 +1,15 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
+date: '2018-7'
+title: 'E-Commerce Platform with MERNSTACK'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+external: 'https://www.waveform.com'
 tech:
   - Node
   - Express
   - Firebase
-  - Vue
-company: 'Upstatement'
+  - React
+company: 'Waveform'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Find out how we built a commercial platform which provides amplification solutions to improve wireless cell and data reception in buildings, homes and vehicles. 
