@@ -2,8 +2,6 @@
 date: '1'
 title: 'Goobr'
 cover: './halcyon.png'
-github: ''
-external: ''
 tech:
   - VS Code
   - React Native
