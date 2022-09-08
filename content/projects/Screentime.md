@@ -10,8 +10,8 @@ tech:
   - REST API
   - React.js
   - OneSignal
-company: 'Starry'
+company: 'First Round on Me'
 showInProjects: true
 ---
 
-Starry Station android app feature that provided users with the ability to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their phones.
+FROME(First Round's on Me) is phenomenon dating application which encourages people to be more confident in themselves and their quest for companionship through face to face interactions. Being part of original development members, I mostly took care of frontend interactions and animations on React native for iOS for MVP.
