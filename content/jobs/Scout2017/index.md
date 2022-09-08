@@ -1,11 +1,11 @@
 ---
 date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Software Intern'
+company: 'Coderra Ltd'
+location: 'Nantwich, UK'
+range: 'Aug 2014 - Nov 2015'
+url: ''
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Designed and developed web utility applications using React to increase target audience engagement by 12%.
+- Took 6 month academic course about multiple threading, concurrency, design patterns, and their impacts on application concurrency.
