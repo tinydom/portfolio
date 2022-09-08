@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'James Smith Academy'
 cover: './demo.png'
 github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://www.jamessmithacademy.com'
 tech:
   - React
   - Styled Components
   - Express
   - Spotify API
-  - Heroku
+  - OKTA API
+  - Docker
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+The James Smith Academy (JSA) is an online personal training platform. Built on the method of famous online personal trainer James Smith, the JSA aims to educate its members in fitness and provide them with all the tools necessary to reach and sustain their fitness goals.
