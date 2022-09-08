@@ -1,15 +1,17 @@
 ---
-date: '2016-11-01'
-title: 'Screentime 2.0'
+date: '2018-04-21'
+title: 'FROME'
 github: ''
-external: 'https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents'
-android: 'https://play.google.com/store/apps/details?id=com.starry.management&hl=en_US'
+external: 'https://www.firstroundsonme.co'
+android: 'https://apps.apple.com/us/app/frome/id1535562075'
 tech:
-  - Cordova
-  - Backbone
-  - Marionette
-company: 'Starry'
+  - React Native
+  - Express.js
+  - REST API
+  - React.js
+  - OneSignal
+company: 'First Round's On Me'
 showInProjects: true
 ---
 
-Starry Station android app feature that provided users with the ability to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their phones.
+FROME(First Round's on Me) is phenomenon dating application which encourages people to be more confident in themselves and their quest for companionship through face to face interactions. Being part of original development members, I mostly took care of frontend interactions and animations on React native for iOS for MVP.
