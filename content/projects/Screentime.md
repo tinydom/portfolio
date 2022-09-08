@@ -5,9 +5,11 @@ github: ''
 external: 'https://www.firstroundsonme.co'
 android: 'https://apps.apple.com/us/app/frome/id1535562075'
 tech:
-  - Cordova
-  - Backbone
-  - Marionette
+  - React Native
+  - Express.js
+  - REST API
+  - React.js
+  - OneSignal
 company: 'Starry'
 showInProjects: true
 ---
