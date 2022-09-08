@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Node.js', 'Python', 'WordPress', 'MongoDB', 'Java'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -152,15 +152,6 @@ const About = () => {
               Originally being Javascript developer, I gradually armed myself with strong and unique sense of UI/UX design as well 
               which completely turned myself in other dimensional person, Now i am proud of being a developer who could read the rhythm 
               of business with delicate sense.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
