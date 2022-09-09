@@ -148,8 +148,8 @@ const About = () => {
               <a>a social industry</a>,{' '}
               <a>a real estate industry</a>, and{' '}
               <a>a blockchain industry</a>. 
-              I preferred outlining things: Planning structures, Outlining a flag in paint and so on.. 
-              Originally being Javascript developer, I gradually armed myself with strong and unique sense of UI/UX design as well 
+              I preferred outlining things: <a>Planning structures</a>, <a>Outlining a flag in paint</a> and so on.. 
+              Originally being full stack developer, I gradually armed myself with strong and unique sense of UI/UX design as well 
               which completely turned myself in other dimensional person, Now i am proud of being a developer who could read the rhythm 
               of business with delicate sense.
             </p>
