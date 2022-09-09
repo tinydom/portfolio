@@ -6,7 +6,8 @@ external: 'https://www.gousto.co.uk/'
 tech:
   - Nuxt
   - Vue
+  - Tailwind
   - Prismic
-company: ''
+company: 'Gousto'
 showInProjects: false
 ---

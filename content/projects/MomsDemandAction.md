@@ -1,14 +1,14 @@
 ---
-date: '2019-11-12'
-title: 'Moms Demand Action Mobile App'
+date: '2019-10'
+title: 'ShadowCore - VR Multiplayer Game'
 github: ''
-external: 'https://www.upstatement.com/work/moms-demand-action/'
-ios: 'https://apps.apple.com/us/app/demand-action/id1475502876'
-android: 'https://play.google.com/store/apps/details?id=com.momsdemandaction.app'
+external: 'https://steamcommunity.com/app/663350'
+ios: ''
+android: ''
 tech:
-  - NativeScript Vue
-  - iOS
-  - Android
-company: 'Upstatement'
+  - Unity 3D
+  - UR4
+  - ASP.NET
+company: 'Logictech Inc'
 showInProjects: false
 ---
