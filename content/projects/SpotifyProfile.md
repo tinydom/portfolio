@@ -1,13 +1,15 @@
 ---
-date: '2018-12-18'
-title: 'Spotify Profile'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+date: '2018-03'
+title: 'vCita- Invoicing & Billing Chrome Extension'
+github: ''
+external: 'https://chrome.google.com/webstore/detail/invoicing-billing-online/iikinnekcingikfnnhklelmhfdoilejd?hl=en'
 tech:
+  - Shopify
+  - Stripe Connect
   - React
   - Express
   - Styled Components
 showInProjects: false
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+vCita transforms invoicing into a quick and effortless process, helping you get paid faster, while offering the convenience of online payments to your clients.
