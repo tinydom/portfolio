@@ -1,15 +1,16 @@
 ---
-date: '2017-06-22'
-title: 'Lonely Planet DBMS'
-github: 'https://github.com/bchiang7/CS3200-Project'
-external: ''
+date: '2019-05'
+title: 'iFly KLM Magazine'
+github: ''
+external: 'https://www.iflymagazine.com'
 tech:
-  - Python
-  - MySQL
-  - Flask
-  - JS
-company: 'Northeastern'
+  - Greensock
+  - Bootstrap
+  - Javascript
+  - HTML5
+  - WebGL
+company: 'KLM'
 showInProjects: false
 ---
 
-A simple web application that allows users to filter through and leave reviews in a database of Lonely Planet's Top 500 Travel Destinations.
+Online version of Travel Guide Agency Magazine which is combination of art and technology. Technically, introduced WebGL based animation using GSAP engine.

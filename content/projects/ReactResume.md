@@ -1,12 +1,14 @@
 ---
-date: '2016-08-01'
-title: 'React Profile'
-github: 'https://github.com/bchiang7/react-profile'
-external: 'https://bchiang7.github.io/react-profile/'
+date: '2021-02'
+title: 'E-commerce PAAS Platform'
+github: ''
+external: 'https://www.rebuyengine.com'
 tech:
-  - React
-  - CSS
+  - React.js
+  - Shopify
+  - Ruby on Rails
+  - Heroku
 showInProjects: true
 ---
 
-Online version of my 2016 resume made for fun. I was interested in learning React.js, so I found a simple tutorial and it spun into a weekend project.
+Online personalization platform to fuel data-driven shopping experiences, win more customers, keep more customers and accelerate growth in E-commerce industry.

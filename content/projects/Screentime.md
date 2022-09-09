@@ -14,4 +14,4 @@ company: 'First Round on Me'
 showInProjects: true
 ---
 
-FROME(First Round's on Me) is phenomenon dating application which encourages people to be more confident in themselves and their quest for companionship through face to face interactions. Being part of original development members, I mostly took care of frontend interactions and animations on React native for iOS for MVP.
+FROME(First Round's on Me) is phenomenon dating application which encourages people to be more confident in themselves and their quest for companionship through face to face interactions. Mostly took care of frontend interactions and animations on React native for iOS for MVP.
