@@ -8,7 +8,7 @@ tech:
   - Spring Boot 5
   - Apache Tomcat
   - Vue
-company: 'Northeastern'
+company: 'Allhomes Inc'
 showInProjects: false
 ---
 
