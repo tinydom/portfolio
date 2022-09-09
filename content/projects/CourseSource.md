@@ -1,15 +1,15 @@
 ---
-date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
-external: ''
+date: '2016-10'
+title: 'Allhomes'
+github: ''
+external: 'https://www.allhomes.com.au/'
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
+  - Java
+  - Spring Boot 5
+  - Apache Tomcat
+  - Vue
 company: 'Northeastern'
 showInProjects: false
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+
