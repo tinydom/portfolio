@@ -1,5 +1,5 @@
 ---
-date: '2019-10'
+date: '2018-10'
 title: 'ShadowCore - VR Multiplayer Game'
 github: ''
 external: 'https://steamcommunity.com/app/663350'

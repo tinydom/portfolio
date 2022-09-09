@@ -1,5 +1,5 @@
 ---
-date: '2019-01-10'
+date: '2019-11-10'
 title: 'AllSocial'
 github: ''
 external: 'https://medium.com/@allsocial/allsocial-wants-to-give-social-media-control-back-to-the-user-d72b9b19c710'

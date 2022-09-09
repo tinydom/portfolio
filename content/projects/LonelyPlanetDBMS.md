@@ -1,5 +1,5 @@
 ---
-date: '2019-05'
+date: '2019-03'
 title: 'iFly KLM Magazine'
 github: ''
 external: 'https://www.iflymagazine.com'
