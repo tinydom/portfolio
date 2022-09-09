@@ -1,12 +1,12 @@
 ---
-date: '2019-11-25'
-title: 'Upstatement.com'
+date: '2019-11'
+title: 'Gousto - Recipe box'
 github: ''
-external: 'https://www.upstatement.com/'
+external: 'https://www.gousto.co.uk/'
 tech:
   - Nuxt
   - Vue
   - Prismic
-company: 'Upstatement'
+company: ''
 showInProjects: false
 ---
