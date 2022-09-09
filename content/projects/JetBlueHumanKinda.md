@@ -1,5 +1,5 @@
 ---
-date: '2015-10-01'
+date: '2018-12'
 title: 'JetBlue HumanKinda'
 github: ''
 external: 'https://us.mullenlowe.com/work/humankinda/'
