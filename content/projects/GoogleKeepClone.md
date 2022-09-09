@@ -1,5 +1,5 @@
 ---
-date: '2018-12-29'
+date: '2019-03-23'
 title: 'SnapEDA IC Widgets'
 github: ''
 external: 'https://www.snapeda.com'
