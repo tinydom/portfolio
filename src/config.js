@@ -7,12 +7,8 @@ module.exports = {
       url: 'https://github.com/bchiang7',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/CoteEren',
     },
     {
       name: 'Linkedin',
@@ -20,7 +16,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://codepen.io/erencote',
     },
   ],
 
