@@ -1,15 +1,13 @@
 ---
-date: '2020-07-16'
-title: 'Northeastern CSSH'
+date: '2022-07'
+title: 'Cardano - Smart Contract Development'
 github: ''
-external: 'https://cssh.northeastern.edu/'
+external: 'https://cardano.org'
 tech:
-  - WordPress
-  - Timber
-  - WordPress Multisite
-  - PHP
-  - Algolia
-  - JS
-company: 'Upstatement'
+  - Web3.js
+  - Smart Contract
+  - goLang
+  - Java
+company: 'Cardano'
 showInProjects: false
 ---
