@@ -1,5 +1,5 @@
 ---
-date: '2017-10'
+date: '2015-10'
 title: 'Flagship Pioneering'
 github: ''
 external: 'https://www.flagshippioneering.com/'
