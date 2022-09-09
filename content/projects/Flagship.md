@@ -1,12 +1,12 @@
 ---
-date: '2018-10-01'
+date: '2018-10'
 title: 'Flagship Pioneering'
 github: ''
 external: 'https://www.flagshippioneering.com/'
 tech:
   - Craft CMS
   - Chart.js
-company: 'Upstatement'
+company: 'Logictech Inc'
 showInProjects: false
 ---
 
