@@ -1,5 +1,5 @@
 ---
-date: '2017-11-01'
+date: '2020-11-30'
 title: 'Bunnytoken - ETH Payment Solution'
 github: ''
 external: 'https://bunnytoken.com'

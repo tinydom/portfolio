@@ -1,12 +1,12 @@
 ---
-date: '2021-06-01'
-title: 'Vanderbilt Design System'
+date: '2020-08-20'
+title: 'PeopleNet - ESRI ArcGIS LiveTV'
 github: ''
-external: 'https://www.vanderbilt.edu/'
+external: 'https://peoplenetv.com/'
 tech:
-  - Twig
-  - Puppy
-  - JS
-company: 'Upstatement'
+  - ArcGIS
+  - Socket.io
+  - ASP.NET
+company: 'BBTech'
 showInProjects: false
 ---

@@ -1,9 +1,10 @@
 ---
-date: '2021-09-01'
-title: 'Koala Health'
+date: '2022-03-22'
+title: 'Fitcoin'
 github: ''
-external: 'https://www.koala.health/'
+external: 'https://fitcoin.io/'
 tech:
+  - Web3.js
   - Next.js
   - TypeScript
   - Redux Toolkit
@@ -13,6 +14,6 @@ tech:
   - Formik
   - Yup
   - Vercel
-company: 'Upstatement'
+company: 'BBTech'
 showInProjects: false
 ---

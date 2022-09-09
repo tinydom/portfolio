@@ -1,12 +1,13 @@
 ---
-date: '2021-07-01'
-title: 'Philadelphia Inquirer Sports Scoreboards'
+date: '2021-08-26'
+title: 'Nutrien - Agriculture Transformation'
 github: ''
-external: 'https://www.inquirer.com/sports/'
+external: 'https://www.nutrien.com/'
 tech:
-  - React
+  - Spring Boot
+  - React.js
   - TypeScript
   - Stats Perform API
-company: 'Upstatement'
+company: 'BBTech'
 showInProjects: false
 ---

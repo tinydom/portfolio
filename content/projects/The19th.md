@@ -1,16 +1,16 @@
 ---
-date: '2020-08-02'
-title: 'The 19th News'
+date: '2022-06'
+title: 'Nebl.io - Blockchain Platform for Enterprise'
 github: ''
-external: 'https://19thnews.org/'
+external: 'https://nebl.io/'
 tech:
-  - WordPress
-  - Timber
-  - Gutenberg
-  - PHP
-  - JS
-  - Mailchimp
-  - AMP
-company: 'Upstatement'
+  - Web3.js
+  - React.js
+  - ASP.NET
+  - C#
+  - MSSQL
+  - Stripe
+  - Okta
+company: 'BBTech'
 showInProjects: false
 ---
