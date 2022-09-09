@@ -1,5 +1,5 @@
 ---
-date: '2017-04-03'
+date: '2015-04'
 title: 'Rinse - Dry Cleaning & Laundry Delivery'
 github: ''
 external: 'https://www.rinse.com/'
@@ -7,7 +7,7 @@ tech:
   - Laravel 5
   - Angular 4
   - Bootstrap
-company: 'Logictech Inc'
+company: 'GMN Web Solutions'
 showInProjects: false
 ---
 

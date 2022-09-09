@@ -6,7 +6,7 @@ external: 'https://www.flagshippioneering.com/'
 tech:
   - Craft CMS
   - Chart.js
-company: 'Logictech Inc'
+company: 'GMN Web Solutions'
 showInProjects: false
 ---
 
