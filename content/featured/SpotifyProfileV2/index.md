@@ -5,6 +5,7 @@ cover: './course-card.png'
 external: 'https://coinmetro.com/'
 cta: ''
 tech:
+  - Rust
   - React
   - Web3.js
   - Express
