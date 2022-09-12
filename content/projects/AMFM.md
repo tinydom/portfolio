@@ -5,6 +5,7 @@ github: ''
 external: 'https://bunnytoken.com'
 tech:
   - Web3.js
+  - Rust
   - Smartcontract
   - React.js
   - Angular.js

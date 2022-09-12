@@ -5,15 +5,12 @@ github: ''
 external: 'https://fitcoin.io/'
 tech:
   - Web3.js
-  - Next.js
-  - TypeScript
-  - Redux Toolkit
+  - Rust
+  - React
   - Stripe
   - Algolia
   - Firebase Auth
   - Formik
-  - Yup
-  - Vercel
 company: 'BBTech'
 showInProjects: false
 ---
