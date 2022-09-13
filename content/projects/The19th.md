@@ -5,6 +5,7 @@ github: ''
 external: 'https://nebl.io/'
 tech:
   - Web3.js
+  - Solidity
   - React.js
   - ASP.NET
   - C#

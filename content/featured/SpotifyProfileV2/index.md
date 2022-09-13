@@ -6,6 +6,7 @@ external: 'https://coinmetro.com/'
 cta: ''
 tech:
   - Rust
+  - Solidity
   - React
   - Web3.js
   - Express

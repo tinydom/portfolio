@@ -6,7 +6,7 @@ external: 'https://bunnytoken.com'
 tech:
   - Web3.js
   - Rust
-  - Smartcontract
+  - Solidity
   - React.js
   - Angular.js
   - Express.js

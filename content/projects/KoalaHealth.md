@@ -6,6 +6,7 @@ external: 'https://fitcoin.io/'
 tech:
   - Web3.js
   - Rust
+  - Solidity
   - React
   - Stripe
   - Algolia

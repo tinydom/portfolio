@@ -5,7 +5,7 @@ github: ''
 external: 'https://cardano.org'
 tech:
   - Web3.js
-  - Smart Contract
+  - Solidity
   - goLang
   - Java
 company: 'Cardano'
